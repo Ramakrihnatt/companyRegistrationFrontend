@@ -2,7 +2,7 @@ import axios from "axios";
 
 // Axios instance
 const API = axios.create({
-  baseURL: "http://localhost:9292/api",
+  baseURL: "https://companyregistrationtask.onrender.com/api",
 });
 
 // --- Companies API ---
